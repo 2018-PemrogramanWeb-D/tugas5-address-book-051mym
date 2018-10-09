@@ -1,0 +1,88 @@
+body{
+	background-color: rgb(49, 113, 148);
+	color: antiquewhite;
+}
+.error {
+    color: #FF0606;
+}
+.note{
+	padding: 15px;
+}
+.header{
+	text-align: center;
+	color: white;
+	font-family: 'Times New Roman', Times, serif;
+	background-color:rgb(49, 113, 148);
+	text-decoration-style: wavy;
+	padding: 15px;
+	line-height: 5px;
+	font-weight: bold;
+	font-variant: normal;
+	background-attachment: fixed;
+	word-spacing: 10px;
+	margin: 25px;
+	border: 7px double rgb(117, 114, 109);
+	cursor: crosshair;
+	filter: Light;
+}
+.notebox {
+    background-color:rgb(49, 113, 148);
+	margin: 10px;
+	border: solid 2px red;
+	list-style-type: square;
+	right: 15px;
+	padding-top: 10px;
+	float: left;
+    height: auto;
+	width: 20%;
+	color: white;
+}
+.form0{
+	width: 5%;
+	padding: 0%;
+	padding-top: 13px;
+	float: left;
+	height: 178px;
+	color: white;
+}
+input{
+	padding: 0%;
+}
+.form {
+	color:white;
+	padding: 10px;
+    float: left;
+    width: 50%;
+	background-color: rgb(49, 113, 148);
+	height: 178px;
+	float: left;
+}
+footer{
+    /* font-size: 70px; */
+    /* text-align: center; */
+    /* padding: 30px; */
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: plum;
+    background-color: rgb(49, 113, 148);
+    border-radius: 50px;
+    border: 7px double rgb(117, 114, 109);
+    height: auto;
+}
+.sbutton{
+	padding-left: 15px;
+}
+input{
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	color:whitesmoke;
+	background-color: dimgray;
+	border: solid 2px black;
+	border-radius: 10px;
+	width: 300px;
+}
+.default{
+	width: 30px;
+}
+#sub{
+	width: 100px;
+}
